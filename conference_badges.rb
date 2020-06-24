@@ -1,12 +1,12 @@
 
 def  badge_maker(names)
-=> "Hello, my name is."
+  "Hello, my name is #{names}"
 end 
 
 names = ["Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
 
-def batch_badge_creator(names)
-"Hello, my name is #{names}"
+def batch_badge_creator(attendees)
+"Hello, my name is #{attendees}"
 end
 
 #rooms available 1-7 

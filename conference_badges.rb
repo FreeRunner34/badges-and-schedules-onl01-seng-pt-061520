@@ -1,6 +1,6 @@
 
 def  badge_maker(names)
-  "Hello, my name is #{names}"
+  return "Hello, my name is #{names}"
 end 
 
 names = ["Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]

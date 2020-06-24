@@ -1,6 +1,6 @@
 
-def  badge_maker()
+def  badge_maker(names)
 => "Hello, my name is."
 end 
 
-array = []
+names = ["Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]

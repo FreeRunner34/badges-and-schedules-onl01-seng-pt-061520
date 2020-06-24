@@ -16,7 +16,7 @@ end
 #rooms available 1-7 
 #return  "Hello, _____! You'll be assigned to room _____!"
 
-def assign_rooms(names)
+def assign_rooms(speakers)
   
 end 
 

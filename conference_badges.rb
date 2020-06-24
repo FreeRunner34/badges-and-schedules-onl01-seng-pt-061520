@@ -7,8 +7,9 @@ names = ["Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
 
 def batch_badge_creator(attendees)
   badges = []
-  attendees.each do | badge |
+  attendees.each { | badge |
     "Hello, my names is #{attendees}"
+  }
 end
 
 #rooms available 1-7 

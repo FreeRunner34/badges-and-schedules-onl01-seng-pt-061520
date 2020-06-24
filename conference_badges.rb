@@ -10,6 +10,7 @@ def batch_badge_creator(attendees)
   attendees.each { | badge |
     "Hello, my names is #{attendees}"
   }
+  return badges
 end
 
 #rooms available 1-7 

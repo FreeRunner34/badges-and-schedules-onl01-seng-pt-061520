@@ -6,7 +6,8 @@ end
 names = ["Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
 
 def batch_badge_creator(attendees)
-"Hello, my name is #{attendees}"
+  badges = []
+" #{attendees}"
 end
 
 #rooms available 1-7 

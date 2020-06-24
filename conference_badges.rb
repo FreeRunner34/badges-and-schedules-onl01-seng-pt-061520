@@ -17,7 +17,7 @@ end
 #return  "Hello, _____! You'll be assigned to room _____!"
 
 def assign_rooms(speakers)
-  
+  assign = []
 end 
 
 def printer 

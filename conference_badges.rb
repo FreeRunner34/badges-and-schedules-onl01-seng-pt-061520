@@ -1,2 +1,2 @@
 
-def badge_maker() => "hello, my name is "
+def badge_maker("ariel") => "hello, my name is "

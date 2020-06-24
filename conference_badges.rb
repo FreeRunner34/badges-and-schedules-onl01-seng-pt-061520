@@ -1,4 +1,4 @@
 
-def  badge_maker("Arel")
-=> "Hello, my name is Arel."
+def  badge_maker()
+=> "Hello, my name is."
 end 
